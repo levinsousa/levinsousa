@@ -1,7 +1,6 @@
 # Oii, Meu nome é Levi 👋
 
-* 👨‍🚀 Técnico de Informática em formação [3/3]
-* 🚀 Estagiando como TI, prestando suporte
+* 👨‍🚀 Técnico em Informática
 * 🌱 Atualmente aprendendo React & MongoDB
 * ❤ Dev Front-end (HTML, CSS, JavaScript e PHP)
 * 👀 Atualmente não trabalho com programação, mas tenho interesse em entrar no mercado, evoluir profissionalmente como desenvolvedor e compartilhar conhecimento com quem faz parte da minha trajetória.
