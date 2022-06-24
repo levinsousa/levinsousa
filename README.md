@@ -1,7 +1,7 @@
 # Oii, Meu nome é Levi 👋
 
 * 👨‍🚀 Técnico em Informática
-* 🌱 Atualmente aprendendo React & MongoDB
+* 🌱 Atualmente aprendendo React, MongoDB & Java
 * ❤ Dev Front-end (HTML, CSS e JavaScript)
 * 👀 Atualmente não trabalho com programação, mas tenho interesse em entrar no mercado, evoluir profissionalmente como desenvolvedor e compartilhar conhecimento com quem faz parte da minha trajetória.
 
